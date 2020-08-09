@@ -5,7 +5,7 @@ Welcome! Start by launching the VSCode live server (CTRL-SHIFT-P and write *live
 
 ## Your mission
 Update `index.js` so that the webpage asks the user for a color when it loads,
-and then sets the text and color accordingly
+and then sets the text and color of the headline accordingly
 
 ## When you are done
 Take a few minutes and experiment, can you change something else? Maybe change another CSS property? Or add another DOM-element?
