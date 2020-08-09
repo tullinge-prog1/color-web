@@ -8,4 +8,4 @@ Update `index.js` so that the webpage asks the user for a color when it loads,
 and then sets the text and color of the headline accordingly
 
 ## When you are done
-Take a few minutes and experiment, can you change something else? Maybe change another CSS property? Or add another DOM-element?
+Take a few minutes and experiment! Can you change something else from user input? Maybe change another CSS property? Or add another DOM-element?
