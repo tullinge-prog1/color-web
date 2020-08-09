@@ -1,7 +1,7 @@
 # Color Web
 
 ## Start here
-Welcome! Start by launching the VSCode live server (CTRL-SHIFT-P and write *live server*). View the webpage and its current status. As you can see it is pink. But we want to make this page interactive!
+Welcome! Start by launching the VSCode live server (CTRL-SHIFT-P and write *live server*). View the webpage in its current status. As you can see it is pink. But we want to make this page interactive!
 
 ## Your mission
 Update `index.js` so that the webpage asks the user for a color when it loads,
