@@ -9,3 +9,7 @@ body {
     place-items: center;
     font-family: sans-serif;
 }
+
+#headline {
+    font-size: 24vh;
+}
